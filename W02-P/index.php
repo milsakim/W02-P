@@ -45,7 +45,7 @@
         <?=$list?>
       </ol>
       <a href="create.php">책 추가하기</a>
-      <h2><?=$article["title"]?></h2>
+      <h2><?="<".$article["title"].">"?></h2>
       <?="<p>".$article["author"]."</p>"?>
       <?=$article["summary"]?>
     </body>
