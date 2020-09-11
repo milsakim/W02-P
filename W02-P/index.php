@@ -31,6 +31,12 @@
   <head>
     <meta charset="utf-8">
     <title>BOOK</title>
+    <style>
+    p {
+      color: orange;
+      font-style: italic;
+    }
+    </style>
   </head>
   <body>
     <body>
